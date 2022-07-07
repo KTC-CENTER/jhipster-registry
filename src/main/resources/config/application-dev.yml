@@ -48,8 +48,8 @@ spring:
       indent-output: true
   security:
     user:
-      name: webpanel
-      password: 2+2font4
+      name: admin
+      password: admin
       roles: USER, ADMIN
   messages:
     cache-duration: PT1S # 1 second, see the ISO 8601 standard
