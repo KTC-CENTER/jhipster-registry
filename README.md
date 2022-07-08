@@ -1,17 +1,17 @@
 # JHIPSTER REGISTRY
 
-Guide de deploiement du service JHIPSTER REGISTRY
+JHIPSTER REGISTRY Service Deployment Guide
 
 ## Installation
 
-Si vous avez deja installé le projet
+If you have already installed the project
 
 ```bash
 $ cd jhipster-registry/
 $ ./mvnw
 ```
 
-Si c'est votre première installation
+If this is your first installation
 
 ```bash
 $ cd jhipster-registry/
@@ -19,11 +19,11 @@ $ npm install
 $ ./mvnw
 ```
 
-## Lancer le projet
+## Launch the project
 
 ```bash
 $ cd jhipster-registry/
 $ ./mvnw
 ```
 
-pour lancer l'interface utilisateur <http://127.0.0.1:8761>
+to launch the user interface <http://127.0.0.1:8761>
